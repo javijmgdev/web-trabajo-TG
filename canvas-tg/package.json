@@ -1,0 +1,16 @@
+{
+  "name": "canvas-tg-articulo11",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Canvas compartido para preparar el trabajo de Teoría de Grafos (artículo 11)",
+  "scripts": {
+    "dev": "node scripts/dev.mjs"
+  },
+  "dependencies": {
+    "@libsql/client": "0.18.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
